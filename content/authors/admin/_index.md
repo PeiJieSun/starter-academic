@@ -1,25 +1,25 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Peijie Sun
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Phd candidate of Recommender System
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Hefei University of Technology
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include recommender system, social network and data mining.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Recommender System
+- Social Network
+- Data Mining
 
 education:
   courses:
