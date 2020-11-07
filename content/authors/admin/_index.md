@@ -6,12 +6,12 @@ title: Peijie Sun
 superuser: true
 
 # Role/position
-role: Phd candidate of Recommender System
+role: PhD candidate of Recommender System
 
 # Organizations/Affiliations
 organizations:
 - name: Hefei University of Technology
-  url: ""
+  url: "http://www.hfut.edu.cn"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include recommender system, social network and data mining.
@@ -26,10 +26,10 @@ education:
   #- course: PhD in Artificial Intelligence
   #  institution: Stanford University
   #  year: 2012
-  - course: MEng in Artificial Intelligence
+  - course: MEng in Signal and Information Processing
     institution: Hefei University of Technology
     year: 2018
-  - course: BSc in Artificial Intelligence
+  - course: BEng in Electronic Information Science and Technology
     institution: Hefei University of Technology
     year: 2015
 
