@@ -6,7 +6,7 @@ title: Peijie Sun
 superuser: true
 
 # Role/position
-role: PhD candidate of Recommender System
+role: PhD candidate of Signal and Information Processing
 
 # Organizations/Affiliations
 organizations:
