@@ -2,9 +2,9 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Attentive Recurrent Social Recommendation"
-authors: []
-date: 2020-11-20T19:24:37+08:00
-doi: ""
+authors: [Peijie Sun, Le Wu, Meng Wang]
+date: 2018
+doi: "https://doi.org/10.1145/3209978.3210023"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2020-11-20T19:24:37+08:00
@@ -17,7 +17,7 @@ publication_types: ["0"]
 
 # Publication name and optional abbreviated publication name.
 publication: ""
-publication_short: ""
+publication_short: "SIGIR"
 
 abstract: ""
 
