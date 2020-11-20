@@ -36,12 +36,12 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:https://app.box.com/s/gboxhz7kcjmi0w7zc451cqqoleaanpcl
+url_pdf: https://app.box.com/s/gboxhz7kcjmi0w7zc451cqqoleaanpcl
 url_code:
 url_dataset:
-url_poster:https://app.box.com/s/t7hzalnvpxyl3p3gi9v21a2gon0o73h5
+url_poster: https://app.box.com/s/t7hzalnvpxyl3p3gi9v21a2gon0o73h5
 url_project:
-url_slides:https://app.box.com/s/r26esy90svl17bfpgg09b68kntlo6h3q
+url_slides: https://app.box.com/s/r26esy90svl17bfpgg09b68kntlo6h3q
 url_source:
 url_video:
 
