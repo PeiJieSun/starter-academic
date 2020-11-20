@@ -16,10 +16,10 @@ publishDate: 2020-11-20T19:24:37+08:00
 publication_types: ["0"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "SIGIR 2018"
 publication_short: "SIGIR"
 
-abstract: ""
+abstract: "Collaborative Filtering (CF) is one of the most popular techniques for building recommender systems. To alleviate the data sparsity issue in CF, social recommendation has emerged by leveraging social influence among users for better recommendation performance. In these systems, uses’ preferences over time are determined by their temporal dynamic interests as well as the general static interests. In the meantime, the complex interplay between users’ internal interests and the social influence from the social network drives the evolution of users’ preferences over time. Nevertheless, traditional approaches either neglected the social network structure for temporal recommendation or assumed a static social influence strength for static social recommendation. Thus, the problem of how to leverage social influence to enhance temporal social recommendation performance remains pretty much open. To this end, in this paper, we present an attentive recurrent network based approach for temporal social recommendation. In the proposed approach, we model users’ complex dynamic and general static preferences over time by fusing social influence among users with two attention networks. Specifically, in the dynamic preference modeling process, we design a dynamic social aware recurrent neural network to capture users’ complex latent interests over time, where a temporal attention network is proposed to learn the temporal social influence over time. In the general static preference modeling process, we characterize each user’s static interest by introducing a static social attention network to model the stationary social influence among users. The output of the dynamic preferences and the static pref- erences are combined together in a unified end-to-end framework for the temporal social recommendation task. Finally, experimental results on two real-world datasets clearly show the superiority of our proposed model compared to the baselines."
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -36,12 +36,12 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
+url_pdf:https://app.box.com/s/gboxhz7kcjmi0w7zc451cqqoleaanpcl
 url_code:
 url_dataset:
-url_poster:
+url_poster:https://app.box.com/s/t7hzalnvpxyl3p3gi9v21a2gon0o73h5
 url_project:
-url_slides:
+url_slides:https://app.box.com/s/r26esy90svl17bfpgg09b68kntlo6h3q
 url_source:
 url_video:
 
