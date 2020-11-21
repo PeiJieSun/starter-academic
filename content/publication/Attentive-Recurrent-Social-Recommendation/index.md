@@ -3,7 +3,7 @@
 
 title: "Attentive Recurrent Social Recommendation"
 authors: [Peijie Sun, Le Wu, Meng Wang]
-date: 2018
+date: 2018-11-20T19:24:37+08:00
 doi: "https://doi.org/10.1145/3209978.3210023"
 
 # Schedule page publish date (NOT publication's date).
